@@ -1,4 +1,4 @@
-# CSCE221
+# Data Structures and Algorithms
 A collection of all assignments from TAMU CSCE 221 Spring 2022.
 
 This is simply a showcase of my work to be used as solid reference for potential employers. If you are presently a student at Texas A&M University, I expressly forbid usage of my code for purposes violating the Aggie Honor Code.
